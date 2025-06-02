@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Hanoi_Tower\Hanoi_Tower\bin\Debug\Hanoi_Tower.exe.config
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Hanoi_Tower\Hanoi_Tower\bin\Debug\Hanoi_Tower.exe
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Hanoi_Tower\Hanoi_Tower\bin\Debug\Hanoi_Tower.pdb
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Hanoi_Tower\Hanoi_Tower\obj\Debug\Hanoi_Tower.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Hanoi_Tower\Hanoi_Tower\obj\Debug\Hanoi_Tower.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Hanoi_Tower\Hanoi_Tower\obj\Debug\Hanoi_Tower.exe
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Hanoi_Tower\Hanoi_Tower\obj\Debug\Hanoi_Tower.pdb

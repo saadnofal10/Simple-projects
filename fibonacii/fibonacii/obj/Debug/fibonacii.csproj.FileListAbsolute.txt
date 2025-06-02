@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\خوارزميات_s2\fibonacii\fibonacii\bin\Debug\fibonacii.exe.config
+C:\Users\NOFAL\Desktop\خوارزميات_s2\fibonacii\fibonacii\bin\Debug\fibonacii.exe
+C:\Users\NOFAL\Desktop\خوارزميات_s2\fibonacii\fibonacii\bin\Debug\fibonacii.pdb
+C:\Users\NOFAL\Desktop\خوارزميات_s2\fibonacii\fibonacii\obj\Debug\fibonacii.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\خوارزميات_s2\fibonacii\fibonacii\obj\Debug\fibonacii.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\خوارزميات_s2\fibonacii\fibonacii\obj\Debug\fibonacii.exe
+C:\Users\NOFAL\Desktop\خوارزميات_s2\fibonacii\fibonacii\obj\Debug\fibonacii.pdb
