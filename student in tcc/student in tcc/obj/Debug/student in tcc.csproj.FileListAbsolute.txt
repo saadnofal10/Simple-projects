@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\programing\student in tcc\student in tcc\bin\Debug\student in tcc.exe.config
+C:\Users\NOFAL\Desktop\programing\student in tcc\student in tcc\bin\Debug\student in tcc.exe
+C:\Users\NOFAL\Desktop\programing\student in tcc\student in tcc\bin\Debug\student in tcc.pdb
+C:\Users\NOFAL\Desktop\programing\student in tcc\student in tcc\obj\Debug\student in tcc.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\programing\student in tcc\student in tcc\obj\Debug\student in tcc.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\programing\student in tcc\student in tcc\obj\Debug\student in tcc.exe
+C:\Users\NOFAL\Desktop\programing\student in tcc\student in tcc\obj\Debug\student in tcc.pdb

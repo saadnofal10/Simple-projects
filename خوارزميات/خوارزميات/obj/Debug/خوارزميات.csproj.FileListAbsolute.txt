@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\programing\خوارزميات\خوارزميات\bin\Debug\خوارزميات.exe.config
+C:\Users\NOFAL\Desktop\programing\خوارزميات\خوارزميات\bin\Debug\خوارزميات.exe
+C:\Users\NOFAL\Desktop\programing\خوارزميات\خوارزميات\bin\Debug\خوارزميات.pdb
+C:\Users\NOFAL\Desktop\programing\خوارزميات\خوارزميات\obj\Debug\خوارزميات.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\programing\خوارزميات\خوارزميات\obj\Debug\خوارزميات.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\programing\خوارزميات\خوارزميات\obj\Debug\خوارزميات.exe
+C:\Users\NOFAL\Desktop\programing\خوارزميات\خوارزميات\obj\Debug\خوارزميات.pdb

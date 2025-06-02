@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\programing\بناء مستطيل\بناء مستطيل\bin\Debug\بناء مستطيل.exe.config
+C:\Users\NOFAL\Desktop\programing\بناء مستطيل\بناء مستطيل\bin\Debug\بناء مستطيل.exe
+C:\Users\NOFAL\Desktop\programing\بناء مستطيل\بناء مستطيل\bin\Debug\بناء مستطيل.pdb
+C:\Users\NOFAL\Desktop\programing\بناء مستطيل\بناء مستطيل\obj\Debug\بناء مستطيل.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\programing\بناء مستطيل\بناء مستطيل\obj\Debug\بناء مستطيل.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\programing\بناء مستطيل\بناء مستطيل\obj\Debug\بناء مستطيل.exe
+C:\Users\NOFAL\Desktop\programing\بناء مستطيل\بناء مستطيل\obj\Debug\بناء مستطيل.pdb

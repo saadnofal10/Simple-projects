@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\programing\العدد العقدي\العدد العقدي\bin\Debug\العدد العقدي.exe.config
+C:\Users\NOFAL\Desktop\programing\العدد العقدي\العدد العقدي\bin\Debug\العدد العقدي.exe
+C:\Users\NOFAL\Desktop\programing\العدد العقدي\العدد العقدي\bin\Debug\العدد العقدي.pdb
+C:\Users\NOFAL\Desktop\programing\العدد العقدي\العدد العقدي\obj\Debug\العدد العقدي.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\programing\العدد العقدي\العدد العقدي\obj\Debug\العدد العقدي.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\programing\العدد العقدي\العدد العقدي\obj\Debug\العدد العقدي.exe
+C:\Users\NOFAL\Desktop\programing\العدد العقدي\العدد العقدي\obj\Debug\العدد العقدي.pdb
