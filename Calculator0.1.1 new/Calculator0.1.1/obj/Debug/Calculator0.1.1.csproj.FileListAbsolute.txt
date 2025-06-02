@@ -1,0 +1,30 @@
+C:\Users\ASUS\Desktop\program\VS program\Calculator0.1.1\Calculator0.1.1\bin\Debug\Calculator0.1.1.exe.config
+C:\Users\ASUS\Desktop\program\VS program\Calculator0.1.1\Calculator0.1.1\bin\Debug\Calculator0.1.1.exe
+C:\Users\ASUS\Desktop\program\VS program\Calculator0.1.1\Calculator0.1.1\bin\Debug\Calculator0.1.1.pdb
+C:\Users\ASUS\Desktop\program\VS program\Calculator0.1.1\Calculator0.1.1\obj\Debug\Calculator0.1.1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\program\VS program\Calculator0.1.1\Calculator0.1.1\obj\Debug\Calculator0._1._1.Form1.resources
+C:\Users\ASUS\Desktop\program\VS program\Calculator0.1.1\Calculator0.1.1\obj\Debug\Calculator0._1._1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\program\VS program\Calculator0.1.1\Calculator0.1.1\obj\Debug\Calculator0.1.1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\program\VS program\Calculator0.1.1\Calculator0.1.1\obj\Debug\Calculator0.1.1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\program\VS program\Calculator0.1.1\Calculator0.1.1\obj\Debug\Calculator0.1.1.exe
+C:\Users\ASUS\Desktop\program\VS program\Calculator0.1.1\Calculator0.1.1\obj\Debug\Calculator0.1.1.pdb
+C:\Users\NOFAL\Desktop\Calculator0.1.1\Calculator0.1.1\bin\Debug\Calculator0.1.1.exe.config
+C:\Users\NOFAL\Desktop\Calculator0.1.1\Calculator0.1.1\bin\Debug\Calculator0.1.1.exe
+C:\Users\NOFAL\Desktop\Calculator0.1.1\Calculator0.1.1\bin\Debug\Calculator0.1.1.pdb
+C:\Users\NOFAL\Desktop\Calculator0.1.1\Calculator0.1.1\obj\Debug\Calculator0.1.1.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\Calculator0.1.1\Calculator0.1.1\obj\Debug\Calculator0._1._1.Form1.resources
+C:\Users\NOFAL\Desktop\Calculator0.1.1\Calculator0.1.1\obj\Debug\Calculator0._1._1.Properties.Resources.resources
+C:\Users\NOFAL\Desktop\Calculator0.1.1\Calculator0.1.1\obj\Debug\Calculator0.1.1.csproj.GenerateResource.cache
+C:\Users\NOFAL\Desktop\Calculator0.1.1\Calculator0.1.1\obj\Debug\Calculator0.1.1.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\Calculator0.1.1\Calculator0.1.1\obj\Debug\Calculator0.1.1.exe
+C:\Users\NOFAL\Desktop\Calculator0.1.1\Calculator0.1.1\obj\Debug\Calculator0.1.1.pdb
+C:\Users\NOFAL\Desktop\Calculator0.1.1 new\Calculator0.1.1\bin\Debug\Calculator0.1.1.exe.config
+C:\Users\NOFAL\Desktop\Calculator0.1.1 new\Calculator0.1.1\bin\Debug\Calculator0.1.1.exe
+C:\Users\NOFAL\Desktop\Calculator0.1.1 new\Calculator0.1.1\bin\Debug\Calculator0.1.1.pdb
+C:\Users\NOFAL\Desktop\Calculator0.1.1 new\Calculator0.1.1\obj\Debug\Calculator0.1.1.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\Calculator0.1.1 new\Calculator0.1.1\obj\Debug\Calculator0._1._1.Form1.resources
+C:\Users\NOFAL\Desktop\Calculator0.1.1 new\Calculator0.1.1\obj\Debug\Calculator0._1._1.Properties.Resources.resources
+C:\Users\NOFAL\Desktop\Calculator0.1.1 new\Calculator0.1.1\obj\Debug\Calculator0.1.1.csproj.GenerateResource.cache
+C:\Users\NOFAL\Desktop\Calculator0.1.1 new\Calculator0.1.1\obj\Debug\Calculator0.1.1.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\Calculator0.1.1 new\Calculator0.1.1\obj\Debug\Calculator0.1.1.exe
+C:\Users\NOFAL\Desktop\Calculator0.1.1 new\Calculator0.1.1\obj\Debug\Calculator0.1.1.pdb

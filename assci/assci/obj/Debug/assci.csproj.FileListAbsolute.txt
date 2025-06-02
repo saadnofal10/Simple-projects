@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\programing\assci\assci\bin\Debug\assci.exe.config
+C:\Users\NOFAL\Desktop\programing\assci\assci\bin\Debug\assci.exe
+C:\Users\NOFAL\Desktop\programing\assci\assci\bin\Debug\assci.pdb
+C:\Users\NOFAL\Desktop\programing\assci\assci\obj\Debug\assci.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\programing\assci\assci\obj\Debug\assci.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\programing\assci\assci\obj\Debug\assci.exe
+C:\Users\NOFAL\Desktop\programing\assci\assci\obj\Debug\assci.pdb
