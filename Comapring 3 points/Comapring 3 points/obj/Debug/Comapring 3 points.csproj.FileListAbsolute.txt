@@ -1,0 +1,14 @@
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Comapring 3 points\Comapring 3 points\bin\Debug\Comapring 3 points.exe.config
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Comapring 3 points\Comapring 3 points\bin\Debug\Comapring 3 points.exe
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Comapring 3 points\Comapring 3 points\bin\Debug\Comapring 3 points.pdb
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Comapring 3 points\Comapring 3 points\obj\Debug\Comapring 3 points.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Comapring 3 points\Comapring 3 points\obj\Debug\Comapring 3 points.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Comapring 3 points\Comapring 3 points\obj\Debug\Comapring 3 points.exe
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Comapring 3 points\Comapring 3 points\obj\Debug\Comapring 3 points.pdb
+C:\Users\NOFAL\Desktop\programing\Comapring 3 points\Comapring 3 points\bin\Debug\Comapring 3 points.exe.config
+C:\Users\NOFAL\Desktop\programing\Comapring 3 points\Comapring 3 points\bin\Debug\Comapring 3 points.exe
+C:\Users\NOFAL\Desktop\programing\Comapring 3 points\Comapring 3 points\bin\Debug\Comapring 3 points.pdb
+C:\Users\NOFAL\Desktop\programing\Comapring 3 points\Comapring 3 points\obj\Debug\Comapring 3 points.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\programing\Comapring 3 points\Comapring 3 points\obj\Debug\Comapring 3 points.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\programing\Comapring 3 points\Comapring 3 points\obj\Debug\Comapring 3 points.exe
+C:\Users\NOFAL\Desktop\programing\Comapring 3 points\Comapring 3 points\obj\Debug\Comapring 3 points.pdb

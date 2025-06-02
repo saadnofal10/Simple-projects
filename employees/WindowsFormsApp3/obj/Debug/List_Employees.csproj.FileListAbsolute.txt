@@ -1,0 +1,20 @@
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\List_Employees.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\List_Employees.Form1.resources
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\List_Employees.csproj.GenerateResource.cache
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\List_Employees.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\NOFAL\Desktop\programing\‏‏WindowsFormsApp3 - نسخة (2)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\NOFAL\Desktop\programing\‏‏WindowsFormsApp3 - نسخة (2)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\NOFAL\Desktop\programing\‏‏WindowsFormsApp3 - نسخة (2)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\NOFAL\Desktop\programing\‏‏WindowsFormsApp3 - نسخة (2)\WindowsFormsApp3\obj\Debug\List_Employees.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\programing\‏‏WindowsFormsApp3 - نسخة (2)\WindowsFormsApp3\obj\Debug\List_Employees.Form1.resources
+C:\Users\NOFAL\Desktop\programing\‏‏WindowsFormsApp3 - نسخة (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\NOFAL\Desktop\programing\‏‏WindowsFormsApp3 - نسخة (2)\WindowsFormsApp3\obj\Debug\List_Employees.csproj.GenerateResource.cache
+C:\Users\NOFAL\Desktop\programing\‏‏WindowsFormsApp3 - نسخة (2)\WindowsFormsApp3\obj\Debug\List_Employees.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\programing\‏‏WindowsFormsApp3 - نسخة (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\NOFAL\Desktop\programing\‏‏WindowsFormsApp3 - نسخة (2)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

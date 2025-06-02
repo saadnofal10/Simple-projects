@@ -1,0 +1,5 @@
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\List_Employees.Form1.resources
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\NOFAL\Desktop\programing\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache

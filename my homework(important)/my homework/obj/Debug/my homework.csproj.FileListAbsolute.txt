@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\programing\my homework\my homework\bin\Debug\my homework.exe.config
+C:\Users\NOFAL\Desktop\programing\my homework\my homework\bin\Debug\my homework.exe
+C:\Users\NOFAL\Desktop\programing\my homework\my homework\bin\Debug\my homework.pdb
+C:\Users\NOFAL\Desktop\programing\my homework\my homework\obj\Debug\my homework.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\programing\my homework\my homework\obj\Debug\my homework.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\programing\my homework\my homework\obj\Debug\my homework.exe
+C:\Users\NOFAL\Desktop\programing\my homework\my homework\obj\Debug\my homework.pdb

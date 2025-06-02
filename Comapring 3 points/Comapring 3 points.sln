@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comapring 3 points", "Comapring 3 points\Comapring 3 points.csproj", "{BFBC641A-BBB1-4812-9AE4-4A72FAB864DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBC641A-BBB1-4812-9AE4-4A72FAB864DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBC641A-BBB1-4812-9AE4-4A72FAB864DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBC641A-BBB1-4812-9AE4-4A72FAB864DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBC641A-BBB1-4812-9AE4-4A72FAB864DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC0915D4-D599-4C02-BDD1-38A3A8D1E76C}
+	EndGlobalSection
+EndGlobal

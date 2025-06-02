@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\programing\frac\frac\bin\Debug\frac.exe.config
+C:\Users\NOFAL\Desktop\programing\frac\frac\bin\Debug\frac.exe
+C:\Users\NOFAL\Desktop\programing\frac\frac\bin\Debug\frac.pdb
+C:\Users\NOFAL\Desktop\programing\frac\frac\obj\Debug\frac.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\programing\frac\frac\obj\Debug\frac.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\programing\frac\frac\obj\Debug\frac.exe
+C:\Users\NOFAL\Desktop\programing\frac\frac\obj\Debug\frac.pdb
