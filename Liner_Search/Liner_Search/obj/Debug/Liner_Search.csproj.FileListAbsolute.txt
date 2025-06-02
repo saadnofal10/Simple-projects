@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Liner_Search\Liner_Search\bin\Debug\Liner_Search.exe.config
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Liner_Search\Liner_Search\bin\Debug\Liner_Search.exe
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Liner_Search\Liner_Search\bin\Debug\Liner_Search.pdb
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Liner_Search\Liner_Search\obj\Debug\Liner_Search.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Liner_Search\Liner_Search\obj\Debug\Liner_Search.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Liner_Search\Liner_Search\obj\Debug\Liner_Search.exe
+C:\Users\NOFAL\Desktop\خوارزميات_s2\Liner_Search\Liner_Search\obj\Debug\Liner_Search.pdb

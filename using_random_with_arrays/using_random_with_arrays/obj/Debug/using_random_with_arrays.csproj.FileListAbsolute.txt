@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\خوارزميات_s2\using_random_with_arrays\using_random_with_arrays\bin\Debug\using_random_with_arrays.exe.config
+C:\Users\NOFAL\Desktop\خوارزميات_s2\using_random_with_arrays\using_random_with_arrays\bin\Debug\using_random_with_arrays.exe
+C:\Users\NOFAL\Desktop\خوارزميات_s2\using_random_with_arrays\using_random_with_arrays\bin\Debug\using_random_with_arrays.pdb
+C:\Users\NOFAL\Desktop\خوارزميات_s2\using_random_with_arrays\using_random_with_arrays\obj\Debug\using_random_with_arrays.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\خوارزميات_s2\using_random_with_arrays\using_random_with_arrays\obj\Debug\using_random_with_arrays.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\خوارزميات_s2\using_random_with_arrays\using_random_with_arrays\obj\Debug\using_random_with_arrays.exe
+C:\Users\NOFAL\Desktop\خوارزميات_s2\using_random_with_arrays\using_random_with_arrays\obj\Debug\using_random_with_arrays.pdb

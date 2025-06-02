@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\خوارزميات_s2\LinkedList\Linked_List\Linked_List\bin\Debug\Linked_List.exe.config
+C:\Users\NOFAL\Desktop\خوارزميات_s2\LinkedList\Linked_List\Linked_List\bin\Debug\Linked_List.exe
+C:\Users\NOFAL\Desktop\خوارزميات_s2\LinkedList\Linked_List\Linked_List\bin\Debug\Linked_List.pdb
+C:\Users\NOFAL\Desktop\خوارزميات_s2\LinkedList\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\خوارزميات_s2\LinkedList\Linked_List\Linked_List\obj\Debug\Linked_List.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\خوارزميات_s2\LinkedList\Linked_List\Linked_List\obj\Debug\Linked_List.exe
+C:\Users\NOFAL\Desktop\خوارزميات_s2\LinkedList\Linked_List\Linked_List\obj\Debug\Linked_List.pdb
