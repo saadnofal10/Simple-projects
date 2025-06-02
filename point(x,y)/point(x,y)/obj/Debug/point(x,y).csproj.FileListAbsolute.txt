@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\programing_s2\point(x,y)\point(x,y)\bin\Debug\point(x,y).exe.config
+C:\Users\NOFAL\Desktop\programing_s2\point(x,y)\point(x,y)\bin\Debug\point(x,y).exe
+C:\Users\NOFAL\Desktop\programing_s2\point(x,y)\point(x,y)\bin\Debug\point(x,y).pdb
+C:\Users\NOFAL\Desktop\programing_s2\point(x,y)\point(x,y)\obj\Debug\point(x,y).csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\programing_s2\point(x,y)\point(x,y)\obj\Debug\point(x,y).csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\programing_s2\point(x,y)\point(x,y)\obj\Debug\point(x,y).exe
+C:\Users\NOFAL\Desktop\programing_s2\point(x,y)\point(x,y)\obj\Debug\point(x,y).pdb

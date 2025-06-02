@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\programing_s2\Files Demo\Files Demo\bin\Debug\Files Demo.exe.config
+C:\Users\NOFAL\Desktop\programing_s2\Files Demo\Files Demo\bin\Debug\Files Demo.exe
+C:\Users\NOFAL\Desktop\programing_s2\Files Demo\Files Demo\bin\Debug\Files Demo.pdb
+C:\Users\NOFAL\Desktop\programing_s2\Files Demo\Files Demo\obj\Debug\Files Demo.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\programing_s2\Files Demo\Files Demo\obj\Debug\Files Demo.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\programing_s2\Files Demo\Files Demo\obj\Debug\Files Demo.exe
+C:\Users\NOFAL\Desktop\programing_s2\Files Demo\Files Demo\obj\Debug\Files Demo.pdb
