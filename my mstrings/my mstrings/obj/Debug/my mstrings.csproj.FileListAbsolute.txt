@@ -1,0 +1,7 @@
+C:\Users\NOFAL\Desktop\programing\my mstrings\my mstrings\bin\Debug\my mstrings.exe.config
+C:\Users\NOFAL\Desktop\programing\my mstrings\my mstrings\bin\Debug\my mstrings.exe
+C:\Users\NOFAL\Desktop\programing\my mstrings\my mstrings\bin\Debug\my mstrings.pdb
+C:\Users\NOFAL\Desktop\programing\my mstrings\my mstrings\obj\Debug\my mstrings.csproj.AssemblyReference.cache
+C:\Users\NOFAL\Desktop\programing\my mstrings\my mstrings\obj\Debug\my mstrings.csproj.CoreCompileInputs.cache
+C:\Users\NOFAL\Desktop\programing\my mstrings\my mstrings\obj\Debug\my mstrings.exe
+C:\Users\NOFAL\Desktop\programing\my mstrings\my mstrings\obj\Debug\my mstrings.pdb
